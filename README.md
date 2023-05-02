@@ -1,3 +1,4 @@
+![maarket campaign](https://user-images.githubusercontent.com/29276051/235600145-a8031bf2-108e-4ac7-979c-9e19838c21e1.jpg)
 ![Dashboard2](https://user-images.githubusercontent.com/29276051/235593681-3de2e148-2119-40e8-a142-0d5f59a6f624.png)
 # CUSTOMER-PERSONALITY-TRAIT
 ## Introduction
