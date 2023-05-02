@@ -64,4 +64,5 @@ The visualization was done using Microsoft Power BI. The repoert comprises of tw
 
 ## Conclusions and Recommendation.
 These are the recommendations as seen on the visuals.
-![Dashboard3](https://user-images.githubusercontent.com/29276051/235602752-e8fb2726-96b1-4ecd-a82d-33e10e907104.png)
+![Dashboard3](https://user-images.githubusercontent.com/29276051/235603500-9c517619-a8d1-4501-adb9-bbfff9358297.png)
+
