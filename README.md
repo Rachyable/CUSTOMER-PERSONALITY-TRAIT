@@ -56,7 +56,7 @@ Place
 The data exploration and modelling was done using Power BI
 
 ## Visualization.
-The visualization was done using Microsoft Power BI. The repoert comprises of two pages.
+The visualization was done using Microsoft Power BI. The report comprises of two pages.
 
 ## Overview
 ![Dashboard2](https://user-images.githubusercontent.com/29276051/235602665-76821fa4-7506-4bdd-8aeb-61bb484d78f1.png)
