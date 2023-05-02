@@ -9,7 +9,9 @@ The data set for this customer perosnality trait was gotten from a marketing cam
 
 ## Data Cleaning.
 This involves identifying and addressing missing or inaccurate data, transforming the data into a usable format, and identifying any outliers or anomalies.
+
 The Marketing campaign for the customers has the following attributes that was cleaned.
+
 Attributes
 People
 •	ID: Customer's unique identifier
@@ -22,6 +24,8 @@ People
 •	Dt_Customer: Date of customer's enrollment with the company
 •	Recency: Number of days since customer's last purchase
 •	Complain: 1 if the customer complained in the last 2 years, 0 otherwise
+
+
 Products
 •	MntWines: Amount spent on wine in last 2 years
 •	MntFruits: Amount spent on fruits in last 2 years
@@ -29,6 +33,8 @@ Products
 •	MntFishProducts: Amount spent on fish in last 2 years
 •	MntSweetProducts: Amount spent on sweets in last 2 years
 •	MntGoldProds: Amount spent on gold in last 2 years
+
+
 Promotion
 •	NumDealsPurchases: Number of purchases made with a discount
 •	AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
@@ -37,6 +43,8 @@ Promotion
 •	AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
 •	AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
 •	Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+
+
 Place
 •	NumWebPurchases: Number of purchases made through the company’s website
 •	NumCatalogPurchases: Number of purchases made using a catalogue
@@ -52,9 +60,8 @@ The visualization was done using Microsoft Power BI. The repoert comprises of tw
 
 ## Overview
 ![Dashboard2](https://user-images.githubusercontent.com/29276051/235602665-76821fa4-7506-4bdd-8aeb-61bb484d78f1.png)
-Features
-![Dashboard3](https://user-images.githubusercontent.com/29276051/235602752-e8fb2726-96b1-4ecd-a82d-33e10e907104.png)
-
 
 
 ## Conclusions and Recommendation.
+These are the recommendations as seen on the visuals.
+![Dashboard3](https://user-images.githubusercontent.com/29276051/235602752-e8fb2726-96b1-4ecd-a82d-33e10e907104.png)
